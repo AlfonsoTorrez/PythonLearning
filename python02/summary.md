@@ -1,4 +1,4 @@
-#Day 02 - Python Learning
+#Day 02 - Input and Variables
 
 ##Objective        
 - 
