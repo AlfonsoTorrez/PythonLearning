@@ -1,0 +1,16 @@
+print("Getting to know you!")
+
+myName = input("Hello there, can I get your name? ")
+myFavFood = input("What is your favorite food? ")
+myState = input("What state do you live in? ")
+myMusic = input("What music do you listen to? ")
+
+print("Hello my name is ")
+print(myName)
+print("I could really go for some ")
+print(myFavFood)
+print(" right about now. Too bad I live in ")
+print(myState)
+print("I cannot find a place that serves my favorite food!")
+print("Well, I guess for now, I will be listening to ")
+print(myMusic)
