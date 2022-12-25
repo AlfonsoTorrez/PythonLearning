@@ -1,16 +1,23 @@
-# RustLearning
-- Learning rust through the rust book. 
+# PythonLearning
+
+- Learning python through a Python Repl.it course.
 
 ## Naming Convention
-- Directory (Folders) 
+
+- Directory (Folders)
+    - ex: python[0-100]
+    - The numbers denote the day of the course that goes from 1-100.
+
 ## Additional Information
-- Each rust[#] directory has a 'summary.md' file to keep track of my 
-daily learning. 
+
+- Each python[#] directory has a 'summary.md' file to keep track of my daily learning.
 - 'summary.md' format below
-	- # Rust - Daily Subject/s
 
-	  ## Objective        
-	  - List of things I will be learning. 
+        # Day [#] - Python Learning
 
-	  ## Summary 
-	  - What I ended up learning.
+        ## Objective
+        - List of things I will be learning.
+
+        ## Summary
+        - What I ended up learning.
+
